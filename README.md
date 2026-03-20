@@ -52,18 +52,18 @@ Este projeto tem como objetivo classificar padrões de digitação a partir da d
 ```
 ------------------------------------------------------------------------
 
-## 🤖 Modelo
+## 🤖 Features do Modelo
 
 O modelo utilizado foi um **Random Forest Classifier** treinado com
 features derivadas do comportamento temporal da digitação.
 
-  Feature           Descrição
-  ----------------- ----------------------------------------------------
-  hold_mean         Tempo médio em que uma tecla permanece pressionada
-  hold_std          Desvio padrão do tempo de pressão
-  keys_per_second   Velocidade média de digitação
-  flight_mean       Intervalo médio entre soltar e pressionar
-  hold_cv           Coeficiente de variação do hold time
+| Feature           | Descrição                                                    |
+|------------------|---------------------------------------------------------------|
+| hold_mean        | Tempo médio em que uma tecla permanece pressionada            |
+| hold_std         | Desvio padrão do tempo de pressão                             |
+| keys_per_second  | Velocidade média de digitação                                 |
+| flight_mean      | Intervalo médio entre soltar e pressionar                     |
+| hold_cv          | Coeficiente de variação do hold time                          |
 
 ------------------------------------------------------------------------
 
