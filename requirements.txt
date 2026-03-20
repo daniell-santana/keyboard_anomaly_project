@@ -1,0 +1,21 @@
+# Modelagem
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+
+# Web
+fastapi
+uvicorn
+pydantic
+
+# Streamlit (para interface web)
+streamlit>
+
+# Visualização
+matplotlib
+seaborn
+
+# Utilitários
+python-dotenv
