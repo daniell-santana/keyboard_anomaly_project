@@ -1,3 +1,19 @@
+## 🚀 Tech Stack
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+
+[![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-Image-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/daniellsantanaa/keyboard-streamlit)
+
+[![Random Forest](https://img.shields.io/badge/Model-Random%20Forest-228B22?style=for-the-badge)]()
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Anomaly%20Detection-blue?style=for-the-badge)]()
+
 # Keyboard Typing Classification
 
 ## 🎯 Sobre o Desafio
@@ -7,7 +23,7 @@ Este projeto tem como objetivo classificar padrões de digitação a partir da d
 ------------------------------------------------------------------------
 
 ## 📁 Estrutura do Projeto
-
+```
 ├── README.md                 # Documentação completa
 ├── requirements.txt          # Dependências gerais
 ├── data/                     # Dados do desafio
@@ -33,7 +49,7 @@ Este projeto tem como objetivo classificar padrões de digitação a partir da d
     ├── random_forest_final.pkl
     └── src/features/
         └── build_features.py
-
+```
 ------------------------------------------------------------------------
 
 ## 🤖 Modelo
