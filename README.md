@@ -90,7 +90,7 @@ docker pull daniellsantanaa/keyboard-streamlit:latest docker run -p
 
 ## 🌐 Aplicação Web
 
-https://keyboard-app-180701311668.us-central1.run.app
+https://biometriacomportamentalanomalia-uunmfarn6t9d7fm7q76z6q.streamlit.app/
 
 Funcionalidades:
 
